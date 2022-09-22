@@ -1,0 +1,7 @@
+{
+    "conditions": [
+      ],
+      "deletion" : "minecraft:stick",
+      "type" : "no_sticks_from_leaves:leaves_decay"
+
+}

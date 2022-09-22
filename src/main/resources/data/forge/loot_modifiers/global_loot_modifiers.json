@@ -1,0 +1,7 @@
+{
+	"comment": "Entries will be loaded, parsed, and executed in order, first to last. Duplicate entries will override earlier entries and missing entries will be ignored while replace:true will clear the list first.",
+	"replace": false,
+	"entries": [
+        "no_sticks_from_leaves:leaves_decay"
+	]
+}
